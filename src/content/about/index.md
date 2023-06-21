@@ -1,23 +1,20 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "I’m Raka abdi reza maulana putra, A website developer"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/authors/raka-rmp.jpeg"
 draft: false
 
 what_i_do:
   title: "What I Do"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Code Writing"
+    description: "I really like to learn or deepen a skill."
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Thinking Smart"
+    description: "Of course in learning all that I need to practice my knowledge by thinking smarter and more open."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Web developer, fresh graduate, I love to make a website project and publish it all
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+I train all my skill with existing knowledge and in my opinion it is necessary to learn as a fresh graduate who likes new things

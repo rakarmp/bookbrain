@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Bookbworm Light Astro",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -19,17 +19,17 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Bookbrain Light Astro Blog Template"
   },
 
   "params": {
-    "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "contact_form_action": "https://getform.io/f/29f52e57-5a96-4f33-bf11-1645c12b43e8",
+    "copyright": "Copyright © 2023 By Rakarmp"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Jl.Sadang No.43, Margahayu Tengah 40225",
+    "email": "rakaabdirmp@gmail.com",
+    "phone": "+6289-5416-1875-86"
   }
 }
