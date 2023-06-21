@@ -1,5 +1,5 @@
-<h1 align=center>Bookworm Light Astro</h1>
-<p align=center>Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use free Astro blog theme.</p>
+<h1 align=center>Bookbrain Light Astro</h1>
+<p align=center>Bookbrain Light is a feature-rich, minimal, highly customizable, easy-to-use free Astro blog theme.</p>
 
 Bookworm Light is a minimal multi-author free Astro blog theme which is perfect for any kind of blog website. Whether you're interested in food, beauty, travel, photography, lifestyle, fitness, health, or other topics, this theme is a great fit. The theme is super fast and SEO friendly which makes it easier for your content to be discovered by search engines.
 

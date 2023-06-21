@@ -4,7 +4,7 @@
     "base_url": "https://bookbrain.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.jpg",
     "logo_width": "120",
     "logo_height": "90",
@@ -17,7 +17,7 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Rakarmp",
     "meta_image": "/images/og-image.png",
     "meta_description": "Bookbrain Light Astro Blog Template"
   },
