@@ -1,28 +1,97 @@
 <h1 align=center>Bookbrain Light Astro</h1>
-<p align=center>Bookbrain Light is a feature-rich, minimal, highly customizable, easy-to-use free Astro blog theme.</p>
 
-Bookworm Light is a minimal multi-author free Astro blog theme which is perfect for any kind of blog website. Whether you're interested in food, beauty, travel, photography, lifestyle, fitness, health, or other topics, this theme is a great fit. The theme is super fast and SEO friendly which makes it easier for your content to be discovered by search engines.
+## Structure
 
-## 🔑Key Features
+.
+├── src
+│   ├── config
+│   │   ├── config.json
+│   │   ├── menu.json
+│   │   ├── social.json
+│   │   └── theme.json
+│   ├── content
+│   │   ├── about
+│   │   │   └── index.md
+│   │   ├── authors
+│   │   │   ├── -index.md
+│   │   │   
+│   │   ├── pages
+│   │   │   ├── 404.md
+│   │   │   ├── contact.md
+│   │   │   ├── elements.md
+│   │   │   └── privacy-policy.md
+│   │   ├── posts
+│   │   │   ├── -index.md
+│   │   │   
+│   │   │   
+│   │   │   
+│   │   └── config.ts
+│   ├── layouts
+│   │   ├── components
+│   │   │   ├── Logo.astro
+│   │   │   ├── Pagination.astro
+│   │   │   ├── Share.astro
+│   │   │   ├── SimilarPosts.astro
+│   │   │   ├── Social.astro
+│   │   │   └── TwSizeIndicator.astro
+│   │   ├── partials
+│   │   │   ├── Footer.astro
+│   │   │   └── Header.astro
+│   │   ├── Authors.astro
+│   │   ├── AuthorSingle.astro
+│   │   ├── Base.astro
+│   │   ├── Default.astro
+│   │   ├── Posts.astro
+│   │   ├── PostSingle.astro
+│   │   └── Search.tsx
+│   ├── lib
+│   │   ├── utils
+│   │   │   ├── dateFormat.ts
+│   │   │   ├── readingTime.ts
+│   │   │   ├── similarItems.ts
+│   │   │   ├── sortFunctions.ts
+│   │   │   ├── taxonomyFilter.ts
+│   │   │   └── textConverter.ts
+│   │   ├── contentParser.astro
+│   │   └── taxonomyParser.astro
+│   ├── pages
+│   │   ├── authors
+│   │   │   ├── page
+│   │   │   │   └── [slug].astro
+│   │   │   ├── index.astro
+│   │   │   └── [single].astro
+│   │   ├── categories
+│   │   │   ├── [category].astro
+│   │   │   └── index.astro
+│   │   ├── page
+│   │   │   └── [slug].astro
+│   │   ├── tags
+│   │   │   ├── index.astro
+│   │   │   └── [tag].astro
+│   │   ├── 404.astro
+│   │   ├── about.astro
+│   │   ├── contact.astro
+│   │   ├── index.astro
+│   │   ├── [regular].astro
+│   │   └── search.astro
+│   ├── styles
+│   │   ├── base.scss
+│   │   ├── buttons.scss
+│   │   ├── components.scss
+│   │   ├── navigation.scss
+│   │   ├── style.scss
+│   │   └── utilities.scss
+│   └── env.d.ts
+├── astro.config.mjs
+├── LICENSE
+├── netlify.toml
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── tsconfig.json
 
-- 🎨 Highly Customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)
-- 👥 Multi-Author Support
-- 📚 Authors Page
-- 👤 Author Single Page
-- 🔍 Search Functionality with FuseJS
-- 🏷️ Tags and Categories Support
-- 📲 Post Social Share Option
-- 🔗 Similar Post Suggestions
-- ⚡ Fast by Default (95+ Google PageSpeed Score)
-- ⚙️ Netlify Settings Pre-configured
-- 📬 Contact Form Support
-- 🌅 Support OG Image
-- ✍️ Write and Update Content in Markdown / MDX
-- 📚 MDX Components Auto Import
-- 📝 Includes Draft Pages and Posts
-- 🚀 Built with Tailwind CSS Framework
-- 📱 Fully Responsive on Desktops, Tablets, and Smartphones
-- 🔍 SEO Friendly
 
 
 <!-- installation -->
