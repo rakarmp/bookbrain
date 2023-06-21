@@ -1,7 +1,7 @@
 ---
 title: "Membangun Situs Web Cepat Dengan AstroJS"
 description: "meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-06-20T05:00:00Z
 image: "/images/posts/AstroJS.jpg"
 categories: ["framework"]
 authors: ["Raka Rmp"]

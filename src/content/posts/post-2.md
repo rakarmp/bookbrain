@@ -1,7 +1,7 @@
 ---
 title: Fetching Data API React.js
 description: "meta description"
-date: 2022-04-04T05:00:00Z
+date: 2022-06-20T05:00:00Z
 image: "/images/posts/ReactJS.png"
 categories: ["development"]
 authors: ["Raka Rmp"]
