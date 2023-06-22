@@ -136,14 +136,15 @@ const { title, description, authors, categories, image, date, tags } =
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   </div>
+  
 </section>
 
-<!-- similar posts -->
+<!-- other articles -->
 {
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
+        <h2 class="mb-8 text-center h3">other articles</h2>
         <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>
