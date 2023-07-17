@@ -5,28 +5,24 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
-    "logo": "/images/logo.jpg",
+    "logo": "/images/gg.gif",
     "logo_width": "120",
     "logo_height": "90",
     "logo_text": "Bookbrain Light"
   },
-
   "settings": {
     "pagination": 5,
     "summary_length": 100
   },
-
   "metadata": {
     "meta_author": "Rakarmp",
     "meta_image": "/images/og-image.png",
     "meta_description": "Bookbrain Light Astro Blog Template"
   },
-
   "params": {
     "contact_form_action": "https://getform.io/f/29f52e57-5a96-4f33-bf11-1645c12b43e8",
     "copyright": "Copyright © 2023 By Rakarmp"
   },
-
   "contactinfo": {
     "address": "Jl.Sadang No.43, Margahayu Tengah 40225",
     "email": "rakaabdirmp@gmail.com",
